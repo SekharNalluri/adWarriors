@@ -1,0 +1,8 @@
+<svg width="350" height="450">
+  <rect x="0" y="0" width="480" height="480" style="fill:black;stroke:black;stroke-width:10;fill-opacity:1;stroke-opacity:0.9" />
+  <circle cx="175" cy="170" r="130" fill="white" stroke="black" stroke-width="6"/>
+  <text x="175" y="170" text-anchor="middle" fill="black" font-weight="bold" font-size="120px" font-family="Arial" dy=".4em">AD</text>
+  <text x="175" y="400" text-anchor="middle" fill="white" font-size="60px" font-family="Arial" dy=".4em">WARRIORS</text>
+  
+Sorry, your browser does not support inline SVG.
+</svg>
